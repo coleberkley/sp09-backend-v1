@@ -1,1 +1,4 @@
 sp09_skeleton/settings.py
+__pycache__/
+*.pyc
+.DS_Store
